@@ -1,0 +1,22 @@
+body{
+  margin: 0px;
+  background-color: rgb(86, 236, 49);
+  background: linear-gradient(90deg, rgba(86, 236, 49) 0%, rgb(211, 209, 212) 100%);
+}
+
+#container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#form{
+  text-align: center;
+  background:rgb(252, 253, 253);
+  width: 400px;
+  padding: 50px;
+  border-radius: 20px;
+}
